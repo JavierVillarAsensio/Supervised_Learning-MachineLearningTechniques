@@ -2,4 +2,7 @@
 ## Authors
   - Francisco Jesús Díaz Pellejero
   - Javier Villar Asensio
-  - Tamara Redondo Díaz
+  - Tamara Redondo Soto
+  
+ ## Github repo
+ https://github.com/JavierVillarAsensio/Supervised_Learning-MachineLearningTechniques.git
